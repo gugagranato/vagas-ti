@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gugagranato/eventos-ti.git"
+    "url": "https://github.com/gugagranato/vagas-ti.git"
   },
   "keywords": [
     "chatbot"
@@ -20,7 +20,7 @@
   "author": "Gustavo Granato Silva",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gugagranato/eventos-ti/issues"
+    "url": "https://github.com/gugagranato/vagas-ti/issues"
   },
-  "homepage": "https://github.com/gugagranato/eventos-ti/blob/master/README.md"
+  "homepage": "https://github.com/gugagranato/vagas-ti/blob/master/README.md"
 }

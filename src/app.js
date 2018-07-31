@@ -2,7 +2,7 @@
 const Telegram = require('telegram-node-bot')
 const TelegramBaseController = Telegram.TelegramBaseController
 const TextCommand = Telegram.TextCommand
-const chatbot = new Telegram.Telegram('644737311:AAFWlmXHzCd7n840AeeU5mLkJnXZ_LthAlk')
+const chatbot = new Telegram.Telegram('Seu Token')
 class EventsController extends TelegramBaseController {
   vagasUdiAction(scope) {
     let msg = `Sankhya - Analista de Sistemas Jr. - Contato: contato@sankhya.com.br
